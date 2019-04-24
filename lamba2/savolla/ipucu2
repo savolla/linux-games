@@ -1,0 +1,33 @@
+Yanına gidip biraz inceledikten sonra
+bununla bir şeyler yapabileceğini anlıyorsun..
+
+Deynek sihirli ve sorunlarını çözmek için çok işe yarayabilir! uzantısının .sh 
+olması bana bir şeyler anımsatıyor!
+
+Hemen bu deynek ile 100 tane deve yaratıp ardından her deveye 10'ar tane 
+sandık yüklemeliyim!
+
+
+
+
+--------------------------------------------------------------------------------------
+100 tane deve klasörü olacak ve her deve kalsörünün içine 10 tane sandık koyulacak.
+Altınlarla dolu sandıkları, bir üst dizindeki 'sandıklar' klasöründe bulabilirsiniz.
+
+Örnek dosya yapısı:
+----------
+deve1           deve2          deve3                  deve99            deve100                                                                                         
+|               |              |                      |                |                                                                                         
+'-> sandık1     '-> sandık11   '-> sandık21           '-> sandık981     '-> sandık991                                                                                  
+'-> sandık2     '-> sandık12   '-> sandık22           '-> sandık982     '-> sandık992                                                                                  
+'-> sandık3     '-> sandık13   '-> sandık23           '-> sandık983     '-> sandık993                                                                                  
+'-> sandık4     '-> sandık14   '-> sandık24           '-> sandık984     '-> sandık994                                                                                  
+'-> sandık5     '-> sandık15   '-> sandık25   ......  '-> sandık985     '-> sandık995                                                                                  
+'-> sandık6     '-> sandık16   '-> sandık26           '-> sandık986     '-> sandık996                                                                                  
+'-> sandık7     '-> sandık17   '-> sandık27           '-> sandık987     '-> sandık997                                                                                  
+'-> sandık8     '-> sandık18   '-> sandık28           '-> sandık988     '-> sandık998                                                                                  
+'-> sandık9     '-> sandık19   '-> sandık29           '-> sandık989     '-> sandık999                                                                                  
+'-> sandık10    '-> sandık20   '-> sandık30           '-> sandık990     '-> sandık1000                                                                              
+                                                                                              
+bu görevden sonra ipucu3 dosyasını oku
+---------------------------------------------------------------------------------------
